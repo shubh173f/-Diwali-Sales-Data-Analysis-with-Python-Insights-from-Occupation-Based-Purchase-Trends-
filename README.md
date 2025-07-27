@@ -1,0 +1,2 @@
+# -Diwali-Sales-Data-Analysis-with-Python-Insights-from-Occupation-Based-Purchase-Trends-
+🚀 Just completed a hands-on Data Analysis project using Python, Pandas, Seaborn, and Matplotlib on a Diwali sales dataset!  📈 In this project, I analyzed consumer behavior based on occupation and spending patterns.   ✅ Key insights:  🧑‍💻 IT Sector, 🏥 Healthcare, and ✈️ Aviation professionals are the top spenders. 
